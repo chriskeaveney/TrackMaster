@@ -19,7 +19,7 @@ Firstly, you will have to set up a Mongo Atlas account
 5. Connect to Your Cluster.
 6. Insert your MongoURI from Mongo Atlas into the keys.js file as shown below:
 
-![](images/api.gif)
+![](images/api.png)
 
 To run this project locally, Clone (or download) the repository:
 
